@@ -1,5 +1,5 @@
-# Tailwindcss for Adobe XD
-Ever just wished you had an asset library for tailwind in your favorite prototyping tool, right... here it is! Available for everyone.
+# Tailwind CSS for Adobe XD
+Ever just wished you had an asset library for Tailwind CSS in your favorite prototyping tool, right... here it is! Available for everyone.
 
 ![Tailwindcss for Adobe XD](/screenshot.png?raw=true "Tailwindcss for Adobe XD")
 
